@@ -17,7 +17,7 @@ const About = () => {
                 </p>
                  <h1 className='primry-heading'>É Importante Conhecer Quem Alimenta Você</h1>
 
-                 <p className='primary-text'>Por trás de cada donut, há dedicação, paixão e cuidado. Aqui na Laricando Donuts, usamos ingredientes selecionados e contamos com uma equipe apaixonada por criar doces frescos e deliciosos. Saber quem prepara sua comida conecta você a histórias reais e torna cada mordida ainda mais especial. Venha nos conhecer e descubra o amor que colocamos em cada receita!</p>
+                 <p className='primary-text'>Por trás de cada Donuts, há dedicação, paixão e cuidado. Aqui na Laricando Donuts, usamos ingredientes selecionados e contamos com uma equipe apaixonada por criar doces frescos e deliciosos. Saber quem prepara sua comida conecta você a histórias reais e torna cada mordida ainda mais especial. Venha nos conhecer e descubra o amor que colocamos em cada receita!</p>
 
                  <p>Assista ao nosso vídeo e descubra os bastidores da nossa cozinha! Veja de perto todo o carinho e dedicação que colocamos em cada receita, desde os ingredientes fresquinhos até o toque final que torna nossos donuts tão especiais. Clique aqui e mergulhe nessa experiência deliciosa! 🎥✨.</p>
 
