@@ -11,9 +11,7 @@ const Home = () => {
             <NavBar />
 
             <div className="home-banner-container">
-                <div className="home-bannerImage-container">
-                    <img src={BannerBackground} alt='imagem de fundo'/>
-                </div>
+                
                 <div className="home-text-section">
                     <h1 className="primary-heading">
                         Seu Donuts Favorito Entregue Em Sua Casa
