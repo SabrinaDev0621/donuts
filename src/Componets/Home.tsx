@@ -1,5 +1,4 @@
 import NavBar from "./NavBar"
-import BannerBackground from '../assets/home-banner-background.png'
 import { FiArrowRight } from 'react-icons/fi'
 import BannerImage from '../assets/home-banner-image.png'
 
