@@ -416,6 +416,7 @@ nav {
     /*navbar component*/
     .nav-logo-container {
         max-width: 100px;
+        height: 50%;
     }
 
     .navbar-links-container {
@@ -456,7 +457,7 @@ nav {
     .about-section-text-container {
         justify-content: center;
         align-items: center;
-        margin-top: 1rem;
+        margin-top: 2rem;
         margin-left: 0;
     }
 
